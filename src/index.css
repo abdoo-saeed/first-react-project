@@ -1,0 +1,58 @@
+/* navbar */
+.back-nav {
+  background-color: #2C3E50;
+}
+
+/* navbar */
+
+
+
+/* footer */
+
+.back-footer {
+  background-color: #2C3E50;
+}
+.back-end{
+    background-color: #1A252F;
+}
+
+/* footer */
+
+
+
+/* home */
+
+.background {
+  background-color: #1ABC9C;
+}
+
+.divider-line{
+    height: 4px;
+    width: 100px;
+}
+
+/* home */
+
+
+/* portfolio */
+
+.hover-comp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; 
+  height: 100%;
+  background-color: #1ABC9C;
+  opacity: 0;
+}
+
+.hover:hover .hover-comp {
+    opacity: 80%;
+    transition: 1s;
+}
+
+.inset{
+    inset: 0;
+}
+
+/* portfolio */
